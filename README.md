@@ -11,8 +11,9 @@ A React developer building real-world projects and currently learning Full Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minitjain&layout=compact&theme=tokyonight)](https://github.com/minitjain)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minitjain/)
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/minitjainworkgmailcoms-projects)
 
-
+![Visitor](https://komarev.com/ghpvc/?username=minitjain&color=blue)
 
 
