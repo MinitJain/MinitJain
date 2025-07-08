@@ -25,8 +25,12 @@ Data Structures & Algorithms: Sharpening my problem-solving skills and understan
 
 ## 📈 GitHub Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minitjain&layout=compact&theme=tokyonight)](https://github.com/minitjain)
-
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=minitjain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ---
+
+
+
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minitjain/)  
