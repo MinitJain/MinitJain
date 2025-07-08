@@ -27,9 +27,10 @@ Data Structures & Algorithms: Sharpening my problem-solving skills and understan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minitjain&layout=compact&theme=tokyonight)](https://github.com/minitjain)
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=minitjain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Activity Graph
+[![Minit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minitjain&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+📧 **Gmail:** [minitjain.work@gmail.com](mailto:minitjain.work@gmail.com)
 ---
-
-
 
 
 ## 🌐 Connect With Me  
@@ -39,3 +40,9 @@ Data Structures & Algorithms: Sharpening my problem-solving skills and understan
 ---
 
 ![Visitor](https://komarev.com/ghpvc/?username=minitjain&color=blue)
+
+## 🤓 Fun Facts
+- 🐾 I have two Dachshunds named Ginger and Maggi 🐶
+- 🧠 I treat coding like a gym workout — just for the brain
+- ☕ My brain runs on coffee and curiosity
+
