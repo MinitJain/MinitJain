@@ -54,9 +54,3 @@ Currently diving into Full Stack Web Development 🌐
 ![Visitor](https://komarev.com/ghpvc/?username=minitjain&color=blue)
 
 ---
-
-## 🤓 Fun Facts
-
-- 🐾 I have two Dachshunds named Ginger and Maggi 🐶  
-- 🧠 I treat coding like a gym workout — just for the brain  
-- ☕ My brain runs on coffee and curiosity  
