@@ -5,7 +5,7 @@ A React developer who enjoys turning ideas into real-world projects. Currently d
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
+ 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
