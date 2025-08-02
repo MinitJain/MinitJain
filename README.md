@@ -1,81 +1,107 @@
-# 👋 Hi, I'm Minit Jain  
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Minit Jain
+<div align="center">
+Show Image
+</div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+🚀 About Me
+I'm a passionate MERN Stack Developer who believes in building things the right way — with clean code, thoughtful design, and seamless user experiences. I'm detail-oriented (perhaps obsessively so 😅), which means I'll spend hours perfecting a button's shadow until it feels just right.
 
-I'm a **MERN Stack Developer** who cares deeply about building things the right way — clean code, thoughtful design, and smooth user experience.  
-I'm pretty detail-oriented (sometimes a bit *too* much), which means I’ll keep tweaking a button’s shadow until it feels *just right*.
+🔭 Currently working on Full Stack Web Applications
+🌱 Learning Advanced React Patterns & System Design
+👯 Looking to collaborate on Open Source Projects
+💬 Ask me about MERN Stack, DSA, or Web Development
+⚡ Fun fact: I enjoy solving mathematical puzzles and algorithmic challenges
+📫 How to reach me: minitjain.work@gmail.com
 
-I also enjoy learning **maths** and other logic-building stuff — though that doesn’t always mean I’m *good* at it 😅  
-Currently diving deeper into **Full Stack Web Development**, while solving problems and sharpening logic through **DSA in C++** 🚀
+<br clear="both">
 
----
+🛠️ Tech Arsenal
+<div align="center">
+Frontend Magic ✨
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Backend Power ⚡
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & Platforms 🔧
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-## 🛠️ Tech Stack
+🎯 Current Focus
+<table>
+<tr>
+<td width="50%">
+🎓 Learning Journey
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=radixui&logoColor=white)
+Full Stack Development - Building scalable MERN applications
+Data Structures & Algorithms - Problem-solving with C++
+System Design - Scalable architecture patterns
+Authentication & Security - JWT, OAuth, and secure practices
+Modern UI/UX - Component libraries and design systems
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)  
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)  
-![bcryptjs](https://img.shields.io/badge/-bcryptjs-grey?style=flat&logo=security&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+</td>
+<td width="50%">
+🏗️ Building
 
-**Others**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+E-commerce Platform using MERN Stack
+Real-time Chat Application with Socket.io
+DSA Problem Tracker for competitive programming
+Portfolio Website with modern animations
+Blog Platform with markdown support
 
----
+</td>
+</tr>
+</table>
 
-## 📚 Currently Learning & Exploring
+📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minitjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minitjain&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+Show Image
+</div>
 
-- 💻 **Full Stack Web Development (MERN)** — Building robust, scalable web apps with MongoDB, Express, React, and Node.js.  
-- 🧠 **Data Structures & Algorithms** — Sharpening problem-solving skills using C++.  
-- 🔐 **Authentication & Security** — Implementing JWT, bcrypt, secure cookies, and role-based access control.  
-- 🎨 **UI Libraries** — Leveraging shadcn/ui and TailwindCSS for modern, accessible interfaces.
+🏆 Achievements
+<div align="center">
+Show Image
+</div>
 
----
+📈 Contribution Graph
+<div align="center">
+Show Image
+</div>
 
+🤝 Let's Connect
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+💭 Quote of the Day
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minitjain&layout=compact&theme=tokyonight)](https://github.com/minitjain)
+👀 Profile Views
+Show Image
 
-[![Minit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minitjain&show_icons=true&theme=tokyonight)](https://github.com/minitjain)
+🐍 Watch my contributions get eaten by the snake!
+Show Image
 
----
-
-## 🏆 GitHub Trophy
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=minitjain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 GitHub Activity Graph
-
-[![Minit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minitjain&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minitjain/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/minitjainworkgmailcoms-projects)  
-📧 **Email:** [minitjain.work@gmail.com](mailto:minitjain.work@gmail.com)
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=minitjain&color=blue&style=flat)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*  
-
+"First, solve the problem. Then, write the code." - John Johnson
+Made with ❤️ and lots of ☕
+</div>
