@@ -44,33 +44,6 @@ I'm a **passionate MERN Stack Developer** who believes in building things the *r
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Learning Journey
-- **Full Stack Development** - Building scalable MERN applications
-- **Data Structures & Algorithms** - Problem-solving with C++
-- **Authentication & Security** - JWT, OAuth, and secure practices
-- **Modern UI/UX** - Component libraries and design systems
-
-</td>
-<td width="50%">
-
-### 🏗️ Building
-- **Micrco Blogging App** using MERN Stack
-
-</td>
-</tr>
-</table>
-
----
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
