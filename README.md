@@ -54,8 +54,6 @@ I'm a **passionate MERN Stack Developer** who believes in building things the *r
 
 </div>
 
----
-
 
   
  
