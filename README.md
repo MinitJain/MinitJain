@@ -57,18 +57,6 @@ Side effects include:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Minit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minitjain&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minitjain&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minitjain&theme=tokyonight)
-
-</div>
-
----
-
 ## 🤝 Connect With Me  
 
 <div align="center">
