@@ -8,7 +8,7 @@
 ### 🚀 About Me
 
 I suffer from an incurable condition called “developer’s hyperfocus.”
- Side effects include excessive attention to detail, obsessive refactoring, and an inability to accept mediocrity in even the tiniest design or code detail.
+Side effects include excessive attention to detail, obsessive refactoring, and an inability to accept mediocrity in even the tiniest design or code detail.
 
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 Learning **DSA in C++**
