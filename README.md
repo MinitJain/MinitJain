@@ -1,27 +1,36 @@
-
+<!-- Typing SVG Intro -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Problem+Solver;DSA+Enthusiast;Clean+Code+Advocate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Minit+Jain;MERN+Stack+Developer;Full+Stack+Web+Developer;Problem+Solver;Clean+Code+Advocate;Always+Learning+New+Things)](https://git.io/typing-svg)
   
 </div>
 
-### 🚀 About Me
+---
 
-I suffer from an incurable condition called “developer’s hyperfocus.”
-Side effects include excessive attention to detail, obsessive refactoring, and an inability to accept mediocrity in even the tiniest design or code detail.
+## 🚀 About Me  
+I suffer from an incurable condition called **"developer’s hyperfocus"**.  
+Side effects include:  
+- Excessive attention to detail  
+- Obsessive refactoring  
+- Inability to accept mediocrity in *any* code or design detail  
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **DSA in C++**
-- 👯 Looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: I enjoy solving **mathematical puzzles** and **algorithmic challenges**
-- 📫 How to reach me: **minitjain.work@gmail.com**
+💡 **What I Do**  
+- 🔭 Currently building **Full Stack Web Applications**  
+- 🌱 Learning **Data Structures & Algorithms in C++**  
+- 👯 Open to collaborating on **Open Source Projects**  
+- ⚡ Fun fact: I enjoy solving **mathematical puzzles** & **algorithmic challenges**  
+- 📫 Reach me at: **minitjain.work@gmail.com**
 
 ---
+
+## 🛠 Tech Stack  
+
 <div align="center">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +55,21 @@ Side effects include excessive attention to detail, obsessive refactoring, and a
 
 </div>
 
-## 🤝 Let's Connect
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Minit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minitjain&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minitjain&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minitjain&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Connect With Me  
 
 <div align="center">
 
