@@ -1,4 +1,3 @@
-# 👋 Hi there, I'm Minit Jain
 
 <div align="center">
   
