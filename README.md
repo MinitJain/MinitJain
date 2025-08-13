@@ -7,7 +7,8 @@
 
 ### 🚀 About Me
 
-I'm a **passionate MERN Stack Developer** who believes in building things the *right way* — with clean code, thoughtful design, and seamless user experiences. I'm detail-oriented (perhaps obsessively so 😅), which means I'll spend hours perfecting a button's shadow until it feels *just right*.
+I suffer from an incurable condition called “developer’s hyperfocus.”
+ Side effects include excessive attention to detail, obsessive refactoring, and an inability to accept mediocrity in even the tiniest design or code detail.
 
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 Learning **DSA in C++**
