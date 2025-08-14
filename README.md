@@ -10,16 +10,16 @@
 ## 🚀 About Me  
 I suffer from an incurable condition called **"developer’s hyperfocus"**.  
 Side effects include:  
-- Excessive attention to detail  
-- Obsessive refactoring  
-- Inability to accept mediocrity in *any* code or design detail  
+Excessive attention to detail  
+Obsessive refactoring  
+Inability to accept mediocrity in *any* code or design detail  
 
-💡 **What I Do**  
-- 🔭 Currently building **Full Stack Web Applications**  
-- 🌱 Learning **Data Structures & Algorithms in C++**  
-- 👯 Open to collaborating on **Open Source Projects**  
-- ⚡ Fun fact: I enjoy solving **mathematical puzzles** & **algorithmic challenges**  
-- 📫 Reach me at: **minitjain.work@gmail.com**
+**What I Do**  
+   Currently building **Full Stack Web Applications**  
+   Learning **Data Structures & Algorithms in C++**  
+   Open to collaborating on **Open Source Projects**  
+   Fun fact: I enjoy solving **mathematical puzzles** & **algorithmic challenges**  
+   Reach me at: **minitjain.work@gmail.com**
 
 ---
 
