@@ -54,18 +54,6 @@
 
 ---
 
-### 🎬 StreamJam — Video Streaming Platform
-🌐 **Live:** https://streamjam.vercel.app  
-
-- Built a **responsive YouTube-like video streaming application**
-- Integrated **YouTube Data API v3** for search, playback, and related videos
-- Implemented adaptive UI behavior for **mobile vs desktop**
-- Designed reusable, scalable React components
-
-**Tech:** React, Material-UI, React Router, YouTube Data API v3
-
----
-
 ## Currently Improving
 
 - **Data Structures & Algorithms (JavaScript)**
