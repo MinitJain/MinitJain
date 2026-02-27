@@ -1,12 +1,3 @@
-<div align="center">
-
-# Minit Jain
-**Full Stack Developer (MERN)**
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;React+19+%7C+Node.js+%7C+AI;High-Performance+Architecture)](https://git.io/typing-svg)
-
----
-
 ### 💡 Portfolio Philosophy
 > I maintain a curated public profile focused on **High-Signal Output**. While my contribution graph reflects daily activity, I only keep production-ready deliverables and open-source contributions public to ensure a clutter-free, professional environment for collaborators.
 
