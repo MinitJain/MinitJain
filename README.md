@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Featured Project: Echo — AI-Enabled Social Ecosystem
+### 🚀 Featured Project: Echo - AI Enabled Social Ecosystem
 **[Live Demo](https://echo-socials.vercel.app)** | **[Source Code](https://github.com/your-username/echo)**
 
 * **Performance:** Achieved a **100/100 Real Experience Score** with **0.31s TTFB** and **0.73s FCP** using React 19.
