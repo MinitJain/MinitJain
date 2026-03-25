@@ -5,34 +5,6 @@
 
 ---
 
-### 🚀 Featured Project: Echo - AI Enabled Social Ecosystem
-**[Live Demo](https://echo-socials.vercel.app)** | **[Source Code](https://github.com/your-username/echo)**
-
-* **Performance:** Achieved a **100/100 Real Experience Score** with **0.31s TTFB** and **0.73s FCP** using React 19.
-* **AI Integration:** Integrated **Google Gemini 3 Flash** for intelligent post assistance and content generation.
-* **Security:** Engineered secure sessions via **HTTP-only cookie-based JWT** and strict CORS policies.
-* **Scale:** Optimized for mobile-first architecture (71% of user base) with real-time Vercel Analytics monitoring.
-* **Tech:** React 19, Redux Toolkit, Tailwind CSS, Node.js, Express, MongoDB (Compass), JWT.
-
----
-
-### 🛠 Technical Toolbox
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React 19, Redux Toolkit, Zustand, JavaScript, SCSS/SASS, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, MongoDB (Compass/Mongoose), JWT Auth |
-| **DevOps/Tools** | Git, Postman, Vercel, Render, Clean MVC Architecture |
-
----
-
-### 📈 Current Focus
-* Mastering **Next.js** for SSR/ISR.
-* Advanced **DSA** in JavaScript.
-* **Three.js** for immersive 3D web experiences.
-
----
-
 ### 🤝 Connect
 <div align="left">
 
