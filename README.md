@@ -1,11 +1,4 @@
-### 💡 Portfolio Philosophy
-> I maintain a curated public profile focused on **High-Signal Output**. While my contribution graph reflects daily activity, I only keep production-ready deliverables and open-source contributions public to ensure a clutter-free, professional environment for collaborators.
 
-</div>
-
----
-
-### 🤝 Connect
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minitjain/)
